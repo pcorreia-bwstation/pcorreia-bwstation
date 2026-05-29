@@ -44,12 +44,12 @@ The goal is to **organize and version** what I use day to day — financial rout
 
 > 🔒 **Note:** most repositories here are **private and for internal use**.
 
-### 🤖 What you'll find here
-
+### 🤖 Scope of work
+ 
 - **Automation** — Python routines to reduce manual, repetitive tasks
 - **QA & Testing** — scripts and materials supporting software testing
 - **Finance & Data** — support for financial analysis and processes
-- **Documents** — reference materials and internal organization
+- **Documentation** — reference materials and internal organization
 
 ### 🛠️ Technologies & Tools
 
@@ -91,12 +91,12 @@ O objetivo é **organizar e versionar** o que utilizo no dia a dia — rotinas f
 
 > 🔒 **Nota:** os repositórios aqui são, em sua maioria, **privados e de uso interno**.
 
-### 🤖 O que você encontra aqui
-
+### 🤖 Áreas de atuação
+ 
 - **Automações** — rotinas em Python para reduzir tarefas manuais e repetitivas
 - **QA & Testes** — scripts e materiais de apoio a testes de software
 - **Finanças & Dados** — apoio a análises e processos financeiros
-- **Documentos** — materiais de referência e organização interna
+- **Documentação** — materiais de referência e organização interna
 
 ### 🛠️ Tecnologias & Ferramentas
 
