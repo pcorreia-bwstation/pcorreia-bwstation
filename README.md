@@ -1,24 +1,21 @@
 <!-- =========================================================
-     PERFIL GITHUB — Patricia Correia
+     CONTA DE TRABALHO — Patricia Correia · BW Station
+     Espaço para scripts e automações internas
      README bilingue: English (EN) / Português (PT-BR)
      Tema: Dark / Moderno
      ========================================================= -->
 
-<!-- ===================== LOGO DA EMPRESA =====================
-     Substitua o caminho abaixo pela imagem da logo da BW Station.
-     Coloque o arquivo (ex.: bwstation-logo.png) na raiz/assets do repo. -->
+<!-- ===================== LOGO DA EMPRESA ===================== -->
 <div align="center">
-  <img src="./assets/Branco_e_preto-removebg-preview.png" alt="BW Station" width="90" alight />
+  <img src="./assets/Branco_e_preto-removebg-preview.png" alt="BW Station" width="90" />
 </div>
-
-<br/>
 
 <!-- ===================== HEADER / BANNER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F9DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Patricia+%F0%9F%91%8B;Financial+Analyst+%7C+Automation+%7C+QA;Ol%C3%A1%2C+eu+sou+a+Patricia+%F0%9F%91%8B;Analista+Financeira+%7C+Automa%C3%A7%C3%B5es+%7C+QA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F9DFF&center=true&vCenter=true&width=620&lines=+Patricia's+Workspace+%E2%80%94+BW+Station;Internal+scripts+%26+automations;Espa%C3%A7o+de+trabalho+%E2%80%94+Patricia+BW+Station;Scripts+e+automa%C3%A7%C3%B5es+internas" alt="Typing SVG" />
 
   <p>
-    <img src="https://img.shields.io/badge/Financial%20Analyst-1a1a2e?style=for-the-badge&logo=bookstack&logoColor=4F9DFF" />
+    <img src="https://img.shields.io/badge/Use-Internal-1a1a2e?style=for-the-badge&logo=github&logoColor=4F9DFF" />
     <img src="https://img.shields.io/badge/Automation-1a1a2e?style=for-the-badge&logo=python&logoColor=ffd43b" />
     <img src="https://img.shields.io/badge/QA%20%2F%20Testing-1a1a2e?style=for-the-badge&logo=testinglibrary&logoColor=e33332" />
   </p>
@@ -39,14 +36,20 @@
 
 ## 🇺🇸 English
 
-### 👩‍💻 About me
+### 🗂️ About this space
 
-I'm a **Financial Analyst** at **BW Station (Mercado BIM)**, working at the intersection of finance and technology. Day to day, I turn manual processes into reliable **automations** and contribute to **QA testing** in software development, ensuring quality and consistency across deliverables.
+This profile works as a **working repository** for scripts, automations, and supporting documents related to internal activities at **BW Station (Mercado BIM)**.
 
-- Data- and process-oriented financial analysis
-- Building **automations** to eliminate repetitive tasks
-- **QA testing** (manual and automated) on software projects
-- Focus on efficiency, quality, and continuous improvement
+The goal is to **organize and version** what I use day to day — financial routines, automations, and QA materials — in a single, structured, and traceable place.
+
+> 🔒 **Note:** most repositories here are **private and for internal use**.
+
+### 🤖 What you'll find here
+
+- **Automation** — Python routines to reduce manual, repetitive tasks
+- **QA & Testing** — scripts and materials supporting software testing
+- **Finance & Data** — support for financial analysis and processes
+- **Documents** — reference materials and internal organization
 
 ### 🛠️ Technologies & Tools
 
@@ -55,8 +58,6 @@ I'm a **Financial Analyst** at **BW Station (Mercado BIM)**, working at the inte
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 **QA & Testing**
@@ -82,14 +83,20 @@ I'm a **Financial Analyst** at **BW Station (Mercado BIM)**, working at the inte
 
 ## 🇧🇷 Português
 
-### 👩‍💻 Sobre mim
+### 🗂️ Sobre este espaço
 
-Sou **Analista Financeira** na **BW Station (Mercado BIM)**, com atuação que cruza finanças e tecnologia. No dia a dia, transformo processos manuais em **automações** confiáveis e contribuo com **testes de QA** no desenvolvimento de software, garantindo qualidade e consistência das entregas.
+Este perfil funciona como um **repositório de trabalho** para scripts, automações e documentos de apoio relacionados às atividades internas na **BW Station (Mercado BIM)**.
 
-- Análise financeira orientada a dados e processos
-- Desenvolvimento de **automações** para eliminar tarefas repetitivas
-- **Testes de QA** (manuais e automatizados) em projetos de software
-- Foco em eficiência, qualidade e melhoria contínua
+O objetivo é **organizar e versionar** o que utilizo no dia a dia — rotinas financeiras, automações e materiais de QA — em um único lugar, de forma estruturada e rastreável.
+
+> 🔒 **Nota:** os repositórios aqui são, em sua maioria, **privados e de uso interno**.
+
+### 🤖 O que você encontra aqui
+
+- **Automações** — rotinas em Python para reduzir tarefas manuais e repetitivas
+- **QA & Testes** — scripts e materiais de apoio a testes de software
+- **Finanças & Dados** — apoio a análises e processos financeiros
+- **Documentos** — materiais de referência e organização interna
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -98,8 +105,6 @@ Sou **Analista Financeira** na **BW Station (Mercado BIM)**, com atuação que c
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 **QA & Testes**
@@ -117,23 +122,8 @@ Sou **Analista Financeira** na **BW Station (Mercado BIM)**, com atuação que c
 
 <div align="right"><a href="#-english">⬆ English</a></div>
 
-
-<!-- ===================== GITHUB STATS (opcional) =====================
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pcorreia-bwstation&show_icons=true&hide_border=true&title_color=4F9DFF&icon_color=4F9DFF&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcorreia-bwstation&layout=compact&hide_border=true&title_color=4F9DFF&text_color=c9d1d9&bg_color=0d1117" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcorreia-bwstation&hide_border=true&background=0d1117&ring=4F9DFF&fire=4F9DFF&currStreakLabel=4F9DFF&stroke=c9d1d9&dates=8b949e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-</div>
-
-===================================================================== -->
-
 ---
 
 <div align="center">
-  <sub>💼 Made with dedication at <strong>BW Station</strong> · Feito com dedicação na <strong>BW Station</strong></sub>
+  <sub>💼 Workspace · <strong>BW Station (Mercado BIM)</strong> · Espaço de trabalho</sub>
 </div>
