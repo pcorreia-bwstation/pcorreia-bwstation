@@ -8,7 +8,7 @@
      Substitua o caminho abaixo pela imagem da logo da BW Station.
      Coloque o arquivo (ex.: bwstation-logo.png) na raiz/assets do repo. -->
 <div align="center">
-  <img src="./assets/Branco_e_preto-removebg-preview.png" alt="BW Station" width="220" />
+  <img src="./assets/Branco_e_preto-removebg-preview.png" alt="BW Station" width="90" alight />
 </div>
 
 <br/>
