@@ -1,6 +1,6 @@
 <!-- =========================================================
      CONTA DE TRABALHO — Patricia Correia · BW Station
-     Espaço para scripts e automações internas
+     Espaço para scripts, automações e documentação de QA
      README bilingue: English (EN) / Português (PT-BR)
      Tema: Dark / Moderno
      ========================================================= -->
@@ -12,12 +12,13 @@
 
 <!-- ===================== HEADER / BANNER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F9DFF&center=true&vCenter=true&width=620&lines=+Patricia's+Workspace+%E2%80%94+BW+Station;Internal+scripts+%26+automations;Espa%C3%A7o+de+trabalho+%E2%80%94+Patricia+BW+Station;Scripts+e+automa%C3%A7%C3%B5es+internas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F9DFF&center=true&vCenter=true&width=620&lines=Patricia+Correia+%E2%80%94+BW+Station;Analista+Financeira+%7C+Automa%C3%A7%C3%A3o+%7C+QA;Financial+Analyst+%7C+Automation+%7C+QA;Processos%2C+dados+e+qualidade+de+software" alt="Typing SVG" />
 
   <p>
     <img src="https://img.shields.io/badge/Use-Internal-1a1a2e?style=for-the-badge&logo=github&logoColor=4F9DFF" />
     <img src="https://img.shields.io/badge/Automation-1a1a2e?style=for-the-badge&logo=python&logoColor=ffd43b" />
     <img src="https://img.shields.io/badge/QA%20%2F%20Testing-1a1a2e?style=for-the-badge&logo=testinglibrary&logoColor=e33332" />
+    <img src="https://img.shields.io/badge/Finance%20%26%20Data-1a1a2e?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
   </p>
 
   <!-- ===================== SELETOR DE IDIOMA ===================== -->
@@ -38,40 +39,54 @@
 
 ### 🗂️ About this space
 
-This profile works as a **working repository** for scripts, automations, and supporting documents related to internal activities at **BW Station (Mercado BIM)**.
+I'm a **financial analyst at BW Station (Mercado BIM)**. Over time my role expanded into two adjacent areas: **automating** the administrative and billing routines I used to run by hand, and **testing** the internal system those routines now depend on.
 
-The goal is to **organize and version** what I use day to day — financial routines, automations, and QA materials — in a single, structured, and traceable place.
+This profile is my **working space** at the company — scripts, automations and QA documentation, organized and versioned in a single traceable place.
 
-> 🔒 **Note:** most repositories here are **private and for internal use**.
+> 🔒 **Note:** most repositories here are **private and for internal use**, so the sections below describe what can't be opened.
 
 ### 🤖 Scope of work
- 
-- **Automation** — Python routines to reduce manual, repetitive tasks
-- **QA & Testing** — scripts and materials supporting software testing
-- **Finance & Data** — support for financial analysis and processes
-- **Documentation** — reference materials and internal organization
+
+- **Finance & Data** — my foundation: billing, client hour reports, income statements, overtime balances and benefits. It's the domain that gives meaning to the rest — when I test a financial calculation, I understand the business rule, not just the screen.
+- **Python Automation** — 5 automations replacing recurring manual work: reading spreadsheets and CSVs, generating invoices, timesheets, benefit receipts and monthly reports as PDF, Excel and HTML. Self-contained projects with externalized configuration and sensitive data kept out of version control.
+- **QA & Testing** — I built the quality practice for the company's internal timesheet system from scratch: test plan, per-module suites, requirement-to-test traceability matrix, monthly execution cycles with evidence, defect lifecycle management and cycle closing reports.
+- **Documentation & Process** — a QA conventions standard based on **ISTQB / IEEE 829**: naming, test case ID immutability, bug vs. change request separation, cycle entry/exit criteria and a pre-publication audit checklist.
+
+### 📊 QA practice — by the numbers
+
+<p>
+  <img src="https://img.shields.io/badge/Test%20cases-94-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Suites-13-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modules-12-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Execution%20cycles-12-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cycle%20reports-14-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Traced%20requirements-30-4F9DFF?style=flat-square" />
+</p>
+
+Plus an executed **security and access-control (RBAC)** test battery, and a traceability matrix kept in sync with each cycle.
 
 ### 🛠️ Technologies & Tools
 
-**Automation & Development**
+**In daily use**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-**QA & Testing**
-<p>
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maestro-7C4DFF?style=for-the-badge&logo=maestro&logoColor=white" />
-</p>
-
-**Financial Analysis & Data**
-<p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+Functional and API testing (manual, via Swagger and DevTools) · Technical and QA documentation
+
+**Currently learning**
+<p>
+  <img src="https://img.shields.io/badge/ISTQB%20CTFL-2C3E50?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-2C3E50?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2C3E50?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2C3E50?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+> I keep these two lists separate on purpose. I work in software quality — it wouldn't make sense to claim a skill without evidence.
 
 <div align="right"><a href="#-português">⬇ Português</a></div>
 
@@ -85,45 +100,59 @@ The goal is to **organize and version** what I use day to day — financial rout
 
 ### 🗂️ Sobre este espaço
 
-Este perfil funciona como um **repositório de trabalho** para scripts, automações e documentos de apoio relacionados às atividades internas na **BW Station (Mercado BIM)**.
+Sou **analista financeira na BW Station (Mercado BIM)**. Ao longo do tempo, minha atuação se estendeu para duas frentes vizinhas: **automatizar** as rotinas administrativas e de faturamento que eu mesma executava, e **testar** o sistema interno que hoje sustenta essas rotinas.
 
-O objetivo é **organizar e versionar** o que utilizo no dia a dia — rotinas financeiras, automações e materiais de QA — em um único lugar, de forma estruturada e rastreável.
+Este perfil é meu **espaço de trabalho** na empresa — scripts, automações e documentação de QA, organizados e versionados em um único lugar rastreável.
 
-> 🔒 **Nota:** os repositórios aqui são, em sua maioria, **privados e de uso interno**.
+> 🔒 **Nota:** os repositórios aqui são, em sua maioria, **privados e de uso interno** — por isso as seções abaixo descrevem o que não dá para abrir.
 
 ### 🤖 Áreas de atuação
- 
-- **Automações** — rotinas em Python para reduzir tarefas manuais e repetitivas
-- **QA & Testes** — scripts e materiais de apoio a testes de software
-- **Finanças & Dados** — apoio a análises e processos financeiros
-- **Documentação** — materiais de referência e organização interna
+
+- **Finanças & Dados** — minha base: faturamento, relatórios de horas por cliente, DRE, banco de horas e benefícios. É o domínio que dá sentido ao resto — quando testo um cálculo financeiro, entendo a regra de negócio, não só a tela.
+- **Automação em Python** — 5 automações que substituíram trabalho manual recorrente: leitura de planilhas e CSVs, geração de invoices, folhas de ponto, recibos de benefícios e relatórios mensais em PDF, Excel e HTML. Projetos independentes, com configuração externalizada e dados sensíveis fora do versionamento.
+- **QA & Testes** — estruturei do zero a prática de qualidade do sistema interno de timesheet da empresa: plano de teste, suítes por módulo, matriz de rastreabilidade ligando requisitos a casos, ciclos mensais de execução com evidências, gestão do ciclo de vida de defeitos e relatórios de fechamento.
+- **Documentação & Processo** — um padrão de convenções de QA baseado em **ISTQB / IEEE 829**: nomenclatura, imutabilidade de IDs de caso, separação entre bug e change request, critérios de entrada e saída de ciclo e auditoria de verificações antes de publicar.
+
+### 📊 Prática de QA — em números
+
+<p>
+  <img src="https://img.shields.io/badge/Casos%20de%20teste-94-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Su%C3%ADtes-13-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/M%C3%B3dulos-12-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ciclos%20de%20execu%C3%A7%C3%A3o-12-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Relat%C3%B3rios%20de%20ciclo-14-4F9DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Requisitos%20rastreados-30-4F9DFF?style=flat-square" />
+</p>
+
+Somados a uma bateria de testes de **segurança e controle de acesso (RBAC)** executada, e a uma matriz de rastreabilidade mantida em sincronia a cada ciclo.
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Automação & Desenvolvimento**
+**Em uso no dia a dia**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-**QA & Testes**
-<p>
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maestro-7C4DFF?style=for-the-badge&logo=maestro&logoColor=white" />
-</p>
-
-**Análise Financeira & Dados**
-<p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+Testes funcionais e de API (manuais, via Swagger e DevTools) · Documentação técnica e de QA
+
+**Em formação**
+<p>
+  <img src="https://img.shields.io/badge/ISTQB%20CTFL-2C3E50?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-2C3E50?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2C3E50?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2C3E50?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+> Separo as duas listas de propósito. Trabalho com qualidade de software — não faria sentido afirmar domínio sem evidência.
 
 <div align="right"><a href="#-english">⬆ English</a></div>
 
 ---
 
 <div align="center">
-  <sub>💼 Workspace · <strong>BW Station (Mercado BIM)</strong> · Espaço de trabalho</sub>
+  <sub>💼 Workspace · <strong>BW Station (Mercado BIM)</strong> · João Pessoa – PB · Espaço de trabalho</sub>
 </div>
