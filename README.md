@@ -49,7 +49,7 @@ This profile is my **working space** at the company — scripts, automations and
 
 - **Finance & Data** — my foundation: billing, client hour reports, income statements, overtime balances and benefits. It's the domain that gives meaning to the rest — when I test a financial calculation, I understand the business rule, not just the screen.
 - **Python Automation** — 5 automations replacing recurring manual work: reading spreadsheets and CSVs, generating invoices, timesheets, benefit receipts and monthly reports as PDF, Excel and HTML. Self-contained projects with externalized configuration and sensitive data kept out of version control.
-- **QA & Testing** — I built the quality practice for the company's internal timesheet system from scratch: test plan, per-module suites, requirement-to-test traceability matrix, monthly execution cycles with evidence, defect lifecycle management and cycle closing reports.
+- **QA & Testing** — I built the quality practice from scratch for the internal system developed and used at the company: test plan, per-module suites, requirement-to-test traceability matrix, monthly execution cycles with evidence, defect lifecycle management and cycle closing reports.
 - **Documentation & Process** — a QA conventions standard based on **ISTQB / IEEE 829**: naming, test case ID immutability, bug vs. change request separation, cycle entry/exit criteria and a pre-publication audit checklist.
 
 ### 📊 QA practice — by the numbers
@@ -86,8 +86,6 @@ Functional and API testing (manual, via Swagger and DevTools) · Technical and Q
   <img src="https://img.shields.io/badge/GitHub%20Actions-2C3E50?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-> I keep these two lists separate on purpose. I work in software quality — it wouldn't make sense to claim a skill without evidence.
-
 <div align="right"><a href="#-português">⬇ Português</a></div>
 
 ---
@@ -110,7 +108,7 @@ Este perfil é meu **espaço de trabalho** na empresa — scripts, automações 
 
 - **Finanças & Dados** — minha base: faturamento, relatórios de horas por cliente, DRE, banco de horas e benefícios. É o domínio que dá sentido ao resto — quando testo um cálculo financeiro, entendo a regra de negócio, não só a tela.
 - **Automação em Python** — 5 automações que substituíram trabalho manual recorrente: leitura de planilhas e CSVs, geração de invoices, folhas de ponto, recibos de benefícios e relatórios mensais em PDF, Excel e HTML. Projetos independentes, com configuração externalizada e dados sensíveis fora do versionamento.
-- **QA & Testes** — estruturei do zero a prática de qualidade do sistema interno de timesheet da empresa: plano de teste, suítes por módulo, matriz de rastreabilidade ligando requisitos a casos, ciclos mensais de execução com evidências, gestão do ciclo de vida de defeitos e relatórios de fechamento.
+- **QA & Testes** — estruturei do zero a prática de qualidade do sistema interno desenvolvido e utilizado na empresa: plano de teste, suítes por módulo, matriz de rastreabilidade ligando requisitos a casos, ciclos mensais de execução com evidências, gestão do ciclo de vida de defeitos e relatórios de fechamento.
 - **Documentação & Processo** — um padrão de convenções de QA baseado em **ISTQB / IEEE 829**: nomenclatura, imutabilidade de IDs de caso, separação entre bug e change request, critérios de entrada e saída de ciclo e auditoria de verificações antes de publicar.
 
 ### 📊 Prática de QA — em números
@@ -146,8 +144,6 @@ Testes funcionais e de API (manuais, via Swagger e DevTools) · Documentação t
   <img src="https://img.shields.io/badge/Playwright-2C3E50?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2C3E50?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
-
-> Separo as duas listas de propósito. Trabalho com qualidade de software — não faria sentido afirmar domínio sem evidência.
 
 <div align="right"><a href="#-english">⬆ English</a></div>
 
